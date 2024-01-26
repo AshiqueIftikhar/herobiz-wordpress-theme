@@ -1,0 +1,1 @@
+// Responsible for showing all archive post, like category post, datewise post, or the authors post, 
