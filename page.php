@@ -1,0 +1,1 @@
+// Responsible for showing any pages created in wordpress
